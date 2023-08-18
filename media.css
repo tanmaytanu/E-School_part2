@@ -1,0 +1,122 @@
+@media (max-width: 575.98px) {
+    header{
+        padding: 0 0;
+    }
+    .menu ul li a{
+        margin-bottom: 10px;
+        padding: 0 10px !important;
+    }
+   .logo{
+        width: 180px;
+    }
+
+/* banner start */
+    .banner{
+        padding-bottom: 60px;
+    }
+    .b_text{
+        text-align: center;
+        }
+    .b_h1{
+        padding: 0; 
+        font-size: 30px;
+        line-height: 40px; 
+    }
+    .b_p2{
+        padding: 0;
+        line-height: 30px;
+    }
+    .btn_link{
+        margin: 15px auto 0;
+    }
+    .b_img{
+        margin-bottom: 20px;
+        padding: 0;
+    }
+/* banner end */
+}
+
+@media (min-width: 576px) and (max-width: 767.98px) { 
+    /* header start */
+    header{
+        padding: 5px 0;
+    }
+    .menu ul li a{
+        margin-bottom: 10px;
+        padding: 0 15px !important;
+    }
+
+/* header end */
+
+/* banner start */
+    .b_text{
+        text-align: center;
+    }
+    .b_h1{
+        padding: 0 40px 0; 
+        font-size: 35px;
+        line-height: 50px; 
+    }
+    .b_p2{
+        padding: 0 30px 0;
+        line-height: 30px;
+    }
+    .btn_link{
+        margin: 15px auto 0;
+    }
+    .b_img{
+        margin-bottom: 30px;
+        padding: 0 50px;
+    }
+/* banner end */
+
+}
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+/* header start */
+   .menu ul li a{
+        margin-bottom: 10px;
+        padding: 0 15px !important;
+    }
+/* header end */
+
+ /*banner start  */
+    .b_text{
+        text-align: center;
+        }
+    .b_h1{
+        padding: 0 90px 0;  
+    }
+    .b_p2{
+        padding: 0 70px 0;
+    }
+    .btn_link{
+        margin: 15px auto 0;
+        width: 155px;
+        height: 45px;
+    }
+    .b_img{
+        margin-bottom: 30px;
+        padding: 0 30px 0;
+    }
+}
+/* banner end */
+
+@media (min-width: 992px) and (max-width: 1199.98px) {
+
+}
+
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+
+}
+
+@media (min-width: 1400px) {
+    /* banner start */
+    .b_h1{
+        padding-right: 105px;
+    }
+    .b_p2{
+        padding-right: 90px;
+    }
+    /* banner end */
+}
